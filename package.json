@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vinayak-gaikwad/Background-generator#readme",
   "dependencies": {
+    "browserify": "^16.5.1",
     "lodash": "^4.17.15"
   }
 }
